@@ -1,0 +1,36 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer id="footer"><!--Footer-->
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2">
+						<div class="companyinfo">
+							<h2><span>LB</span>Tienda</h2>
+							<p>LBTienda, tu tienda de confianza.</p>
+						</div>
+					</div>
+					<div class="col-sm-7">
+						
+					</div>
+					<div class="col-sm-3">
+						<div class="address">
+							<img src="./public/images/home/map.png" alt="" />
+							<p>Huelva, Andalucia, España</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright © 2016 LBTienda Inc. Todos los derechos reservados.</p>
+					<p class="pull-right">Diseñado por <span><a target="_blank">Álvaro Pérez García</a></span></p>
+				</div>
+			</div>
+		</div>
+		
+	</footer><!--/Footer-->
